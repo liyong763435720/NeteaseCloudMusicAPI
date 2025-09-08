@@ -1,0 +1,18 @@
+{
+  "name": "Netease CloudMusic API",
+  "version": "1.0.1",
+  "slug": "netease_music_api",
+  "description": "非官方网易云音乐 API 支持 Home Assistant 加载项运行",
+  "startup": "services",
+  "boot": "auto",
+  "init": false,
+  "host_network": true,
+  "ports": {
+    "3000/tcp": 3000
+  },
+  "webui": "http://[HOST]:[PORT:3000]",
+  "arch": ["amd64", "aarch64"],
+  "image": "ghcr.io/liyong763435720/netease_music_api-{arch}",
+  "options": {},
+  "schema": {}
+}
