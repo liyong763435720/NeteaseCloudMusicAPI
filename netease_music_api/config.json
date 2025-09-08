@@ -11,7 +11,7 @@
     "3000/tcp": 3000
   },
   "webui": "http://[HOST]:[PORT:3000]",
-  "arch": ["amd64", "aarch64"],
+  "arch": ["amd64", "aarch64", "armv7"],
   "image": "ghcr.io/liyong763435720/netease_music_api-{arch}",
   "options": {},
   "schema": {}
