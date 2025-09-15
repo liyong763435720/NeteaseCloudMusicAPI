@@ -11,4 +11,13 @@
 2. 在 Home Assistant 加载项页面刷新本地加载项
 3. 安装并启动，访问 http://HA-IP:3000 进行测试
 
+## ☕ 赞助支持
+
+如果您觉得我花费大量时间维护这个库对您有帮助，欢迎请我喝杯奶茶，您的支持将是我持续改进的动力！
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://gitee.com/wuwzn/ha-addons/raw/master/0wwzn/Ali_Pay.jpg" height="350px" />
+  <img src="https://gitee.com/wuwzn/ha-addons/raw/master/0wwzn/WeChat_Pay.jpg" height="350px" />
+</div> 💖
+感谢您的支持与鼓励！
 
